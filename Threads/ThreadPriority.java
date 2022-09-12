@@ -1,3 +1,7 @@
+// LPII - Threads
+// Priorizando Threads
+// Samantha D. Medeiros @ 12/09/2022
+
 package Threads;
 
 class Prioridade extends Thread {

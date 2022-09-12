@@ -1,6 +1,6 @@
-// LPII
+// LPII - Threads
 // Interface Runnable
-// Samantha D. Medeiros @ 06/09/2022
+// Samantha D. Medeiros @ 05/09/2022
 
 package Threads;
 

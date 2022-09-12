@@ -1,6 +1,6 @@
-// LPII
+// LPII - Threads
 // Finalizando Threads
-// Samantha D. Medeiros @ 06/09/2022
+// Samantha D. Medeiros @ 07/09/2022
 
 package Threads;
 
