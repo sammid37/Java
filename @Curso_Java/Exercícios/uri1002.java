@@ -1,4 +1,3 @@
-package EstruturaSequencial;
 // Curso Java, Introdução 
 // Exercícios do URI Online Judge (atual Bee Crowd)
 // 1002
