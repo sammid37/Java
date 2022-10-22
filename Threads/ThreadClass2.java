@@ -2,7 +2,7 @@
 // Classe Thread
 // Samantha D. Medeiros @ 05/09/2022
 
-package Threads;
+// package Threads;
 
 // Implementando a Thread e a Thread Main
 class MyThread extends Thread {

@@ -2,7 +2,7 @@
 // Finalizando Threads
 // Samantha D. Medeiros @ 07/09/2022
 
-package Threads;
+// package Threads;
 
 public class ThreadAlive extends Thread {
     public void run() {

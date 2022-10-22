@@ -2,7 +2,7 @@
 // Interface Runnable
 // Samantha D. Medeiros @ 05/09/2022
 
-package Threads;
+// package Threads;
 
 // Implementand a partir da Interface Runnable a Thread Main
 /*

@@ -2,7 +2,7 @@
 // Interface Runnable
 // Samantha D. Medeiros @ 05/09/2022
 
-package Threads;
+// package Threads;
 
 public class ThreadRunnable1 implements Runnable {
     public void run() {
